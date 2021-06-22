@@ -248,7 +248,8 @@ h6,
 }
 
 .xx4_2_4 > img {
-    transform: rotate(35deg);
+    transform: rotate(45deg);
+    transform: rotate(45deg);
     width: 100%
 }
 
@@ -1631,7 +1632,8 @@ body.section-show .transition-mask:before {
     width: 500px;
     height: 500px;
     overflow: hidden;
-    background-color: lightgoldenrodyellow;
+    /*background-color: lightgoldenrodyellow;*/
+    background-image: url(../img/paper.jpg);
     position: relative;
     z-index: 15;
     -webkit-transition: height .5s .3s ease, transform .5s .8s ease;
