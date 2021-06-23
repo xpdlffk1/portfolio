@@ -3293,9 +3293,9 @@ body .symp-btn {
         -moz-transform: rotate(-45deg) translateY(45px);
         -ms-transform: rotate(-45deg) translateY(45px);
         -o-transform: rotate(-45deg) translateY(45px);
-        transform: rotate(-45deg) translateY(100px);
+        transform: rotate(-45deg) translateY(10px);
         position: absolute;
         bottom: 0;
-        left: -40px;
+        /*  left: -40px;*/
     }
 }
